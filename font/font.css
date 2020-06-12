@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'ZootopiaJPosters.com.ar';
+  src: url('ZootopiaJPosters.com.ar.eot');
+  src: url('ZootopiaJPosters.com.ar.eot?#iefix') format('embedded-opentype'),
+       url('ZootopiaJPosters.com.ar.svg#ZootopiaJPosters.com.ar') format('svg'),
+       url('ZootopiaJPosters.com.ar.ttf') format('truetype'),
+       url('ZootopiaJPosters.com.ar.woff') format('woff'),
+       url('ZootopiaJPosters.com.ar.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
